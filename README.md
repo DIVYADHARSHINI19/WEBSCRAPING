@@ -1,6 +1,6 @@
 # WEBSCRAPING
   I have used different different webscraping such as selenium, beautifulsoup and pyautogui with different websites. You can also use it as you wish. 
-  If you like my project don't forget to [star](https://github.com/DIVYADHARSHINI19/WEBSCRAPING.git)
+  If you like my project don't forget to [star](https://github.com/DIVYADHARSHINI19/WEBSCRAPING.git) this repository.
     
  
 <div align = center>
