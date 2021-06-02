@@ -5,6 +5,8 @@ url = "https://www.flipkart.com/search?q=table&otracker=search&otracker1=search&
 lines = requests.get(url)
 code = lines.text
 flipkart = BeautifulSoup(code, "html.parser")
+
+# TO FETCH DATA
 for text in flipkart.find_all('a', {'class': 's1Q9rs'}):
     table = text.string
     print(table)
