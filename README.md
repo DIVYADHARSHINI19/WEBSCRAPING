@@ -32,11 +32,5 @@
   $ pip install request
   ```
   
- ### 4) For using SELENIUM and bs4
-  * Download and import the packages
-  ```console
-  $ pip install bs4
-  $ pip install selenium
-  ```
   
  That's all you need to do before using my project.
